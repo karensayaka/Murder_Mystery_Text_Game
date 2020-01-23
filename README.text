@@ -1,0 +1,25 @@
+This was a final project for my Grade 11 Computer Science class.
+It contains only one java file, without use of any custom classes.
+The objective of this project was to demonstrate proficient use of custom methods,
+as at that point in my school CS career, we were not taught how to create
+and use our own classes.
+
+This culminating assignment is a murder mystery 
+text-game, combining storytelling elements with an investigation 
+player-interactive phase. Once the player discovers all the clues, 
+they transition into a trial-like event where the player debates against 
+characters to determine the identity of the killer. In the trial, 
+there are minigames such as debates where the player counters other 
+characters' arguments, a hangman game where the player finds
+the appropriate word for the topic being discussed. It also 
+contains multiple choice aspects, a question is asked and the 
+player has 4 answers to choose from. Like the multiple choice 
+questions, there are certain parts where the player chooses a piece 
+of evidence, the choice being between the player's entire inventory of
+evidence. This game is heavily based on the commercialized videogame by Spike
+Chunsoft, Danganronpa 2: Goodbye Despair. Many elements from that game
+are recreated in this program, I claim no ownership in any of the ideas
+within this file other than the program's code.
+
+
+Karen Akune
